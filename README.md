@@ -1,6 +1,6 @@
 ### Hello (World!) there 👋
 
-- 🌱 I’m currently learning JavaScript (ES6)
+- 🌱 I’m currently learning Django Framework
 - 🎓 Currently studying Systems Analysis and Development
 - 📫 How to reach me: @mikaelsonbraz
 - 😄 Pronouns: He/His/Him
