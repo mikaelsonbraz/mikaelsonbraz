@@ -13,7 +13,7 @@
  </div>
   
 
-<div style="display: inline-block; justify-content: space-evenly"><br>
+<div style="display: flex; justify-content: space-evenly"><br>
   <div>
     <img align="center" alt="Mika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Mika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
