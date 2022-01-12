@@ -1,6 +1,6 @@
 ### Hello (World!) there 👋
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Spring Boot
 - 🎓 Currently studying Systems Analysis and Development
 - 📫 How to reach me: @mikaelsonbraz
 - 😄 Pronouns: He/His/Him
@@ -26,6 +26,7 @@
     <img align="center" alt="Mika-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Mika-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Mika-django" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+    <img align="center" alt="Mika-spring" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   </div>
   <div>
     <h2></h2>
