@@ -33,7 +33,7 @@
     <img align="center" alt="Mika-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Mika-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img align="center" alt="Mika-heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
-    <img align="center" alt="Mika-postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+    <img align="center" alt="Mika-postman" height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   </div>  
 </div>
   
