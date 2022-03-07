@@ -34,6 +34,7 @@
     <img align="center" alt="Mika-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img align="center" alt="Mika-heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
     <img align="center" alt="Mika-postman" height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+    <img align="center" alt="Mika-postman" height="35" width="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/insomnia-icon.png/>
   </div>  
 </div>
   
