@@ -1,6 +1,6 @@
 ### Hello (World!) there 👋
 
-- 🌱 I’m currently learning microservices with Java/Spring
+- 🌱 I’m currently learning about Design Patterns
 - 🎓 Currently studying Systems Analysis and Development
 - 📫 How to reach me: @mikaelsonbraz
 - 😄 Pronouns: He/His/Him
