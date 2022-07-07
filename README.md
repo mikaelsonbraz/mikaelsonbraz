@@ -1,6 +1,6 @@
 ### Hello (World!) there 👋
 
-- 🌱 I’m currently learning about Design Patterns
+- 🌱 I’m currently learning about Google Cloud
 - 🎓 Currently studying Systems Analysis/Development
 - 📫 How to reach me: @mikaelsonbraz
 - 😄 Pronouns: He/His/Him
