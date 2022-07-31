@@ -1,6 +1,6 @@
 ### Hello (World!) there 👋
 
-- 🌱 I’m currently learning about Docker and Docker Compose
+- 🌱 I’m currently learning about Docker Compose
 - 🎓 Currently studying Systems Analysis/Development
 - 📫 How to reach me: @mikaelsonbraz
 - 😄 Pronouns: He/His/Him
