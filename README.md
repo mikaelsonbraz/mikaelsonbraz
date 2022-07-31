@@ -1,6 +1,6 @@
 ### Hello (World!) there 👋
 
-- 🌱 I’m currently learning about Business Process Modeling
+- 🌱 I’m currently learning about Docker and Docker Compose
 - 🎓 Currently studying Systems Analysis/Development
 - 📫 How to reach me: @mikaelsonbraz
 - 😄 Pronouns: He/His/Him
