@@ -4,7 +4,7 @@
 - 🎓 Currently studying Systems Analysis/Development
 - 📫 How to reach me: @mikaelsonbraz
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I am passionate about technology 👨‍💻, astronomy🌌 and...sports 🏀, yeah, you read right. I'm programmer, astronomy enthusiastic and PE Theacher 😄 
+- ⚡ Fun fact: I am passionate about technology 👨‍💻, astronomy🌌 and...sports 🏀, yeah, you read right. I'm programmer, astronomy enthusiastic and PE Theacher😆
 
 <div>
   <a href="https://github.com/mikaelsonbraz">
